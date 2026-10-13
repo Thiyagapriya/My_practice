@@ -1,6 +1,6 @@
-class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.print("have a good day");
-    }
+public class Main {
+public static void main(String[] args){
+System.out.print("Hello!");
+System.out.println("This is Thiyagapriya");
+}
 }
